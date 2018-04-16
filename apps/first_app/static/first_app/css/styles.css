@@ -1,0 +1,15 @@
+.wrapper {
+    width: 300px;
+    height: 120px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.randomword {
+    border: 2px solid black;
+}
+
+form {
+    display: inline-block;
+}
